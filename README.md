@@ -14,3 +14,9 @@ precipitation-nowcasting
 * intro: Geoscientific Model Development (2020)
 * paper: https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020-discussion.html
 * github: https://github.com/hydrogo/rainnet
+
+## DGMR
+**Skilful precipitation nowcasting using deep generative models of radar**
+* intro: nature (2021)
+* paper: https://www.nature.com/articles/s41586-021-03854-z
+* github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting
