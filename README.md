@@ -9,6 +9,12 @@ precipitation-nowcasting
 * paper: https://gmd.copernicus.org/articles/12/1387/2019/
 * github: https://github.com/hydrogo/rainymotion
 
+## pySTEPS
+**Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
+* intro: Geoscientific Model Development (2019)
+* paper: https://gmd.copernicus.org/articles/12/4185/2019/
+* github: https://github.com/pySTEPS/pysteps
+
 ## RainNet
 **RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting**
 * intro: Geoscientific Model Development (2020)
@@ -20,9 +26,3 @@ precipitation-nowcasting
 * intro: nature (2021)
 * paper: https://www.nature.com/articles/s41586-021-03854-z
 * github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting
-
-## pySTEPS
-**Pysteps: an open-source Python library for probabilistic precipitation nowcasting (v1.0)**
-* intro: Geoscientific Model Development (2019)
-* paper: https://gmd.copernicus.org/articles/12/4185/2019/
-* github: https://github.com/pySTEPS/pysteps
