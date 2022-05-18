@@ -26,3 +26,11 @@ precipitation-nowcasting
 * intro: nature (2021)
 * paper: https://www.nature.com/articles/s41586-021-03854-z
 * github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting
+
+
+# Library
+
+## wradlib
+**wradlib: An Open Source Library for Weather Radar Data Processing**
+* doc: https://docs.wradlib.org/en/stable/
+* github: https://github.com/wradlib/wradlib
