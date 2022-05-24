@@ -3,6 +3,11 @@ precipitation-nowcasting
 
 # Papers&Codes
 
+## DozhdyaNet
+**All convolutional neural networks for radar-based precipitation nowcasting**
+* intro: Procedia Computer Science (2019)
+* paper: https://www.sciencedirect.com/science/article/pii/S1877050919303801
+
 ## rainymotion
 **Optical flow models as an open benchmark for radar-based precipitation nowcasting (rainymotion v0.1)**
 * intro: Geoscientific Model Development (2019)
@@ -14,6 +19,12 @@ precipitation-nowcasting
 * intro: Geoscientific Model Development (2019)
 * paper: https://gmd.copernicus.org/articles/12/4185/2019/
 * github: https://github.com/pySTEPS/pysteps
+
+## U-Net based Nowcasting
+**Machine Learning for Precipitation Nowcasting from Radar Images**
+* intro: arXiv (2019)
+* paper: https://arxiv.org/abs/1912.12132
+* blog: https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html
 
 ## MetNet
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
