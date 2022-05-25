@@ -26,6 +26,11 @@ precipitation-nowcasting
 * paper: https://arxiv.org/abs/1912.12132
 * blog: https://ai.googleblog.com/2020/01/using-machine-learning-to-nowcast.html
 
+## A Review of radar-based nowcasting
+**A review of radar-based nowcasting of precipitation and applicable machine learning techniques**
+* intro: arXiv (2020)
+* paper: https://arxiv.org/abs/2005.04988
+
 ## MetNet
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
 * intro: arXiv (2020)
