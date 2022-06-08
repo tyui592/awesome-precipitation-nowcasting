@@ -1,7 +1,19 @@
-precipitation-nowcasting
+Papers&Codes
 ==
 
-# Papers&Codes
+# Surface observation based precipitation nowcasting
+
+## MLP based nowcasting
+**Rainfall Prediction: A Deep Learning Approach**
+* intro: International Conference on Hybrid Artificial Intelligence Systems (2016)
+* paper: https://link.springer.com/chapter/10.1007/978-3-319-32034-2_13
+
+## CNN based nowcasting
+**A short-term rainfall prediction model using multi-task convolutional neural networks**
+* intro: IEEE international conference on data mining (2017)
+* paper: https://ieeexplore.ieee.org/abstract/document/8215512
+
+# Radar based precipitation nowcasting
 
 ## DozhdyaNet
 **All convolutional neural networks for radar-based precipitation nowcasting**
@@ -49,7 +61,7 @@ precipitation-nowcasting
 * paper: https://www.nature.com/articles/s41586-021-03854-z
 * github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting
 
-## MetNet2
+## MetNet-2
 **Skillful Twelve Hour Precipitation Forecasts using Large Context Neural Networks**
 * intro: arXiv (2021)
 * paper: https://arxiv.org/abs/2111.07470
