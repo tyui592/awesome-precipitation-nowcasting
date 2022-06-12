@@ -1,19 +1,21 @@
 Papers&Codes
 ==
 
-# Surface observation based precipitation nowcasting
 
-## MLP based nowcasting
+# Surface Observation
+
+## MLP based method
 **Rainfall Prediction: A Deep Learning Approach**
 * intro: International Conference on Hybrid Artificial Intelligence Systems (2016)
 * paper: https://link.springer.com/chapter/10.1007/978-3-319-32034-2_13
 
-## CNN based nowcasting
+## CNN based method
 **A short-term rainfall prediction model using multi-task convolutional neural networks**
 * intro: IEEE international conference on data mining (2017)
 * paper: https://ieeexplore.ieee.org/abstract/document/8215512
 
-# Radar based precipitation nowcasting
+
+# Radar Reflectivity
 
 ## DozhdyaNet
 **All convolutional neural networks for radar-based precipitation nowcasting**
@@ -43,12 +45,6 @@ Papers&Codes
 * intro: arXiv (2020)
 * paper: https://arxiv.org/abs/2005.04988
 
-## MetNet
-**MetNet: A Neural Weather Model for Precipitation Forecasting**
-* intro: arXiv (2020)
-* paper: https://arxiv.org/abs/2003.12140
-* github: https://github.com/openclimatefix/metnet
-
 ## RainNet
 **RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting**
 * intro: Geoscientific Model Development (2020)
@@ -60,6 +56,15 @@ Papers&Codes
 * intro: nature (2021)
 * paper: https://www.nature.com/articles/s41586-021-03854-z
 * github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting
+
+
+# Multimodality
+
+## MetNet
+**MetNet: A Neural Weather Model for Precipitation Forecasting**
+* intro: arXiv (2020)
+* paper: https://arxiv.org/abs/2003.12140
+* github: https://github.com/openclimatefix/metnet
 
 ## MetNet-2
 **Skillful Twelve Hour Precipitation Forecasts using Large Context Neural Networks**
