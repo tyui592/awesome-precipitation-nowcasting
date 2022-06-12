@@ -74,3 +74,8 @@ Papers&Codes
 **wradlib: An Open Source Library for Weather Radar Data Processing**
 * doc: https://docs.wradlib.org/en/stable/
 * github: https://github.com/wradlib/wradlib
+
+## Cartopy
+**Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
+* doc: https://scitools.org.uk/cartopy/docs/latest/
+* github: https://github.com/SciTools/cartopy
