@@ -55,7 +55,7 @@ Papers&Codes
 **Skilful precipitation nowcasting using deep generative models of radar**
 * intro: nature (2021)
 * paper: https://www.nature.com/articles/s41586-021-03854-z
-* github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting
+* github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting, https://github.com/openclimatefix/skillful_nowcasting
 
 
 # Multimodality
