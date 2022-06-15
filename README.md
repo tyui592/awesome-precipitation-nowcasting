@@ -89,3 +89,8 @@ Papers&Codes
 **Cartopy is a Python package designed to make drawing maps for data analysis and visualisation easy.**
 * doc: https://scitools.org.uk/cartopy/docs/latest/
 * github: https://github.com/SciTools/cartopy
+
+## Satflow
+**Satellite Optical Flow with machine learning models**
+* doc: https://satflow.readthedocs.io/en/stable/
+* github: https://github.com/openclimatefix/satflow
