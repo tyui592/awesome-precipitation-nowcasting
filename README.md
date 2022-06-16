@@ -94,3 +94,8 @@ Papers&Codes
 **Satellite Optical Flow with machine learning models**
 * doc: https://satflow.readthedocs.io/en/stable/
 * github: https://github.com/openclimatefix/satflow
+
+## Google Earth Engine API
+**Python and JavaScript bindings for calling the Earth Engine API.**
+* doc: https://earthengine.google.com/
+* github: https://github.com/google/earthengine-api
