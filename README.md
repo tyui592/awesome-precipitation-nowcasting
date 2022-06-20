@@ -1,8 +1,5 @@
 Papers&Codes
-==
-
-
-# Surface Observation
+== 
 
 ## MLP based method
 **Rainfall Prediction: A Deep Learning Approach**
@@ -13,9 +10,6 @@ Papers&Codes
 **A short-term rainfall prediction model using multi-task convolutional neural networks**
 * intro: IEEE international conference on data mining (2017)
 * paper: https://ieeexplore.ieee.org/abstract/document/8215512
-
-
-# Radar Reflectivity
 
 ## DozhdyaNet
 **All convolutional neural networks for radar-based precipitation nowcasting**
@@ -51,20 +45,17 @@ Papers&Codes
 * paper: https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020-discussion.html
 * github: https://github.com/hydrogo/rainnet
 
-## DGMR
-**Skilful precipitation nowcasting using deep generative models of radar**
-* intro: nature (2021)
-* paper: https://www.nature.com/articles/s41586-021-03854-z
-* github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting, https://github.com/openclimatefix/skillful_nowcasting
-
-
-# Multimodality
-
 ## MetNet
 **MetNet: A Neural Weather Model for Precipitation Forecasting**
 * intro: arXiv (2020)
 * paper: https://arxiv.org/abs/2003.12140
 * github: https://github.com/openclimatefix/metnet
+
+## DGMR
+**Skilful precipitation nowcasting using deep generative models of radar**
+* intro: nature (2021)
+* paper: https://www.nature.com/articles/s41586-021-03854-z
+* github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting, https://github.com/openclimatefix/skillful_nowcasting
 
 ## MetNet-2
 **Skillful Twelve Hour Precipitation Forecasts using Large Context Neural Networks**
@@ -73,7 +64,8 @@ Papers&Codes
 * blog: https://ai.googleblog.com/2021/11/metnet-2-deep-learning-for-12-hour.html
 
 
-# Library
+Library
+==
 
 ## Py-ART
 **The Python-ARM Radar Toolkit. A data model driven interactive toolkit for working with weather radar data.**
