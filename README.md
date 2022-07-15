@@ -91,3 +91,12 @@ Library
 **Python and JavaScript bindings for calling the Earth Engine API.**
 * doc: https://earthengine.google.com/
 * github: https://github.com/google/earthengine-api
+
+Dataset
+==
+
+## KoMet
+**Benchmark Dataset for Precipitation Forecasting by Post-Processing the Numerical Weather Prediction.**
+* intro: arXiv (2022)
+* paper: https://arxiv.org/abs/2206.15241
+* github: https://github.com/osilab-kaist/KoMet-Benchmark-Dataset
