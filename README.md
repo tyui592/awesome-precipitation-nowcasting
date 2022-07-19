@@ -97,7 +97,7 @@ Dataset
 ## EarthNet2021
 **EarthNet2021: A large-scale dataset and challenge for Earth surface forecasting as a guided video prediction task.**
 * intro: CVPR Workshop EarthVision (2021)
-* paper: https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/papers/Requena-Mesa_EarthNet2021_A_Large-Scale_Dataset_and_Challenge_for_Earth_Surface_Forecasting_CVPRW_2021_paper.pdf
+* paper: https://openaccess.thecvf.com/content/CVPR2021W/EarthVision/html/Requena-Mesa_EarthNet2021_A_Large-Scale_Dataset_and_Challenge_for_Earth_Surface_Forecasting_CVPRW_2021_paper.html
 * doc: https://www.earthnet.tech/
 * github: https://github.com/earthnet2021/earthnet-model-intercomparison-suite
 
