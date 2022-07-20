@@ -10,6 +10,12 @@ Papers&Codes
 * intro: International Conference on Hybrid Artificial Intelligence Systems (2016)
 * paper: https://link.springer.com/chapter/10.1007/978-3-319-32034-2_13
 
+## TrajGRU
+**Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model**
+* intro: NIPS (2017)
+* paper: https://arxiv.org/abs/1706.03458
+* github: https://github.com/sxjscience/HKO-7
+
 ## CNN based method
 **A short-term rainfall prediction model using multi-task convolutional neural networks**
 * intro: IEEE international conference on data mining (2017)
