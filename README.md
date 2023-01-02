@@ -74,13 +74,16 @@ Papers&Codes
 * blog: https://ai.googleblog.com/2021/11/metnet-2-deep-learning-for-12-hour.html
 
 ## NeurIPS 2022 Workshop (Tackling Climate Change with Machine Learning)
-[**Short-range forecasts of global precipitation using deep learning-augmented numerical weather prediction**](https://www.climatechange.ai/papers/neurips2022/64)
+* [**Short-range forecasts of global precipitation using deep learning-augmented numerical weather prediction**](https://www.climatechange.ai/papers/neurips2022/64)
+* [**Nowformer : A Locally Enhanced Temporal Learner for Precipitation Nowcasting**](https://www.climatechange.ai/papers/neurips2022/80)
+* [**An Unsupervised Learning Perspective on the Dynamic Contribution to Extreme Precipitation Changes**](https://www.climatechange.ai/papers/neurips2022/81)
+* [**Generative Modeling of High-resolution Global Precipitation Forecasts**](https://www.climatechange.ai/papers/neurips2022/89)
 
-[**Nowformer : A Locally Enhanced Temporal Learner for Precipitation Nowcasting**](https://www.climatechange.ai/papers/neurips2022/80)
+## ASOC
+**Deep-Learning-Based Precipitation Nowcasting with Ground Weather Station Data and Radar Data**
+* intro: arXiv (2022)
+* paper: https://arxiv.org/abs/2210.12853
 
-[**An Unsupervised Learning Perspective on the Dynamic Contribution to Extreme Precipitation Changes**](https://www.climatechange.ai/papers/neurips2022/81)
-
-[**Generative Modeling of High-resolution Global Precipitation Forecasts**](https://www.climatechange.ai/papers/neurips2022/89)
 
 Library
 ==
