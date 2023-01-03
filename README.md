@@ -79,6 +79,12 @@ Papers&Codes
 * [**An Unsupervised Learning Perspective on the Dynamic Contribution to Extreme Precipitation Changes**](https://www.climatechange.ai/papers/neurips2022/81)
 * [**Generative Modeling of High-resolution Global Precipitation Forecasts**](https://www.climatechange.ai/papers/neurips2022/89)
 
+## DeepRaNE
+**Effective Training Strategies for Deep-learning-based Precipitation Nowcasting and Estimation**
+* intro: Computers & Geosciences (2022)
+* paper: https://www.sciencedirect.com/science/article/pii/S009830042200036X
+* github: https://github.com/jihoonko/DeepRaNE
+
 ## ASOC
 **Deep-Learning-Based Precipitation Nowcasting with Ground Weather Station Data and Radar Data**
 * intro: arXiv (2022)
