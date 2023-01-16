@@ -1,5 +1,6 @@
-Papers&Codes
+:paperclip: Papers&Codes
 == 
+
 ## ConvLSTM
 **Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting**
 * intro: NIPS (2015)
@@ -84,14 +85,14 @@ Papers&Codes
 * intro: arXiv (2022)
 * paper: https://arxiv.org/abs/2210.12853
 
-Workshop
+:pushpin: Workshop
 ==
 
 ## Tackling Climate Change with Machine Learning
 * intro: NIPS 2022
 * link: https://www.climatechange.ai/events/neurips2022
 
-Library
+:computer: Library
 ==
 
 ## Py-ART
@@ -119,7 +120,7 @@ Library
 * doc: https://earthengine.google.com/
 * github: https://github.com/google/earthengine-api
 
-Dataset
+:minidisc: Dataset
 ==
 
 ## EarthNet2021
