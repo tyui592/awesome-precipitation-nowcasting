@@ -69,9 +69,9 @@
 * github: https://github.com/deepmind/deepmind-research/tree/master/nowcasting, https://github.com/openclimatefix/skillful_nowcasting
 
 ## MetNet-2
-**Skillful Twelve Hour Precipitation Forecasts using Large Context Neural Networks**
-* intro: arXiv (2021)
-* paper: https://arxiv.org/abs/2111.07470
+**Skillful Twelve Hour Precipitation Forecasts using Large Context Neural Networks, Deep learning for twelve hour precipitation forecasts**
+* intro: arXiv (2021), Nature communications (2022)
+* paper: https://arxiv.org/abs/2111.07470, https://www.nature.com/articles/s41467-022-32483-x
 * blog: https://ai.googleblog.com/2021/11/metnet-2-deep-learning-for-12-hour.html
 
 ## DeepRaNE
