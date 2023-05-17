@@ -164,7 +164,7 @@
 * paper: https://arxiv.org/abs/2206.15241
 * github: https://github.com/osilab-kaist/KoMet-Benchmark-Dataset
 
-others
+:earth_asia: others
 ==
 ## EarthArXiv
 * intro: EarthArXiv publishes articles from all subdomains of Earth Science and related domains of planetary science. 
