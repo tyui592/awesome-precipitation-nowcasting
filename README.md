@@ -95,6 +95,13 @@
 * GIScience & Remote Sensing (2023)
 * paper: https://www.tandfonline.com/doi/pdf/10.1080/15481603.2023.2203363
 
+
+## MM-RNN
+**MM-RNN: A Multimodal RNN for Precipitation Nowcasting**
+* IEEE Transactions on Geoscience and Remote Sensing (2023)
+* paper: https://ieeexplore.ieee.org/abstract/document/10092888
+
+
 :pushpin: Workshop
 ==
 
