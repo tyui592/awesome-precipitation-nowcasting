@@ -92,21 +92,20 @@
 
 ## SimVP
 **Precipitation nowcasting using ground radar data and simpler yet better video prediction deep learning**
-* GIScience & Remote Sensing (2023)
+* intro: GIScience & Remote Sensing (2023)
 * paper: https://www.tandfonline.com/doi/pdf/10.1080/15481603.2023.2203363
 
 ## MM-RNN
 **MM-RNN: A Multimodal RNN for Precipitation Nowcasting**
-* IEEE Transactions on Geoscience and Remote Sensing (2023)
+* intro: IEEE Transactions on Geoscience and Remote Sensing (2023)
 * paper: https://ieeexplore.ieee.org/abstract/document/10092888
 
 ## ClimaX
 **ClimaX: A foundation model for weather and climate**
-* arXiv (2023)
+* intro: arXiv (2023)
 * paper: https://arxiv.org/abs/2301.10343
 * github: https://github.com/microsoft/ClimaX
 * blog: https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/
-
 
 :pushpin: Workshop
 ==
