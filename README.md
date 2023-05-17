@@ -104,7 +104,7 @@
 **ClimaX: A foundation model for weather and climate**
 * arXiv (2023)
 * paper: https://arxiv.org/abs/2301.10343
-
+* blog: https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/
 
 :pushpin: Workshop
 ==
