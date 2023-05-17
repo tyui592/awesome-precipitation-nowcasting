@@ -85,6 +85,11 @@
 * intro: arXiv (2022)
 * paper: https://arxiv.org/abs/2210.12853
 
+## Earthformer
+**Earthformer: Exploring Space-Time Transformers for Earth System Forecasting**
+* intro: NIPS (2022)
+* paper: https://proceedings.neurips.cc/paper_files/paper/2022/hash/a2affd71d15e8fedffe18d0219f4837a-Abstract-Conference.html
+
 ## SimVP
 **Precipitation nowcasting using ground radar data and simpler yet better video prediction deep learning**
 * GIScience & Remote Sensing (2023)
