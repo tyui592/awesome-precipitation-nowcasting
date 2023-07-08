@@ -107,6 +107,11 @@
 * github: https://github.com/microsoft/ClimaX
 * blog: https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/introducing-climax-the-first-foundation-model-for-weather-and-climate/
 
+##  NowcastNet
+**Skilful nowcasting of extreme precipitation with NowcastNet**
+* intro: Nature (2023)
+* paper: https://www.nature.com/articles/s41586-023-06184-4
+
 :pushpin: Workshop
 ==
 
