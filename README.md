@@ -112,6 +112,11 @@
 * intro: Nature (2023)
 * paper: https://www.nature.com/articles/s41586-023-06184-4
 
+## MFF
+**Deep Learning Model based on Multi-scale Feature Fusion for Precipitation Nowcasting**
+* intro: Geoscientific Model Development Discussions
+* paper: https://doi.org/10.5194/gmd-2023-109
+
 :pushpin: Workshop
 ==
 
