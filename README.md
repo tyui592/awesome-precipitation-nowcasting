@@ -114,7 +114,7 @@
 
 ## MFF
 **Deep Learning Model based on Multi-scale Feature Fusion for Precipitation Nowcasting**
-* intro: Geoscientific Model Development Discussions
+* intro: Geoscientific Model Development Discussions (2023)
 * paper: https://doi.org/10.5194/gmd-2023-109
 
 :pushpin: Workshop
