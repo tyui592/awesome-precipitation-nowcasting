@@ -117,6 +117,12 @@
 * intro: Geoscientific Model Development Discussions (2023)
 * paper: https://doi.org/10.5194/gmd-2023-109
 
+## LDCast
+**Latent diffusion models for generative precipitation nowcasting with accurate uncertainty quantification**
+* intro: arXiv (2023)
+* paper: https://arxiv.org/abs/2304.12891
+* github: https://github.com/MeteoSwiss/ldcast
+
 :pushpin: Workshop
 ==
 
