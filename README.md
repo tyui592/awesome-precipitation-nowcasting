@@ -157,6 +157,11 @@
 **Python and JavaScript bindings for calling the Earth Engine API.**
 * doc: https://earthengine.google.com/
 * github: https://github.com/google/earthengine-api
+ 
+## OpenSTL
+**OpenSTL: A Comprehensive Benchmark of Spatio-Temporal Predictive Learning**
+* doc: https://openstl.readthedocs.io/en/latest/
+* github: https://github.com/chengtan9907/OpenSTL
 
 :minidisc: Dataset
 ==
