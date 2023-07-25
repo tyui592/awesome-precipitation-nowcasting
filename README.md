@@ -126,6 +126,11 @@
 * paper: https://arxiv.org/abs/2304.12891
 * github: https://github.com/MeteoSwiss/ldcast
 
+## PreDiff
+**PreDiff: Precipitation Nowcasting with Latent Diffusion Models**
+* intro: arXiv (2023)
+* paper: https://arxiv.org/abs/2307.10422
+
 :pushpin: Workshop
 ==
 
