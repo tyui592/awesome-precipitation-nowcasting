@@ -193,6 +193,12 @@
 * paper: https://arxiv.org/abs/2206.15241
 * github: https://github.com/osilab-kaist/KoMet-Benchmark-Dataset
 
+## PostRainBench
+**POSTRAINBENCH: A COMPREHENSIVE BENCHMARK AND A NEW MODEL FOR PRECIPITATION FORECASTING**
+* intro: arXiv (2023)
+* paper: https://arxiv.org/abs/2310.02676
+* github: https://github.com/yyyujintang/PostRainBench
+
 :earth_asia: others
 ==
 ## EarthArXiv
