@@ -131,6 +131,12 @@
 * intro: arXiv (2023)
 * paper: https://arxiv.org/abs/2307.10422
 
+## STGM
+**Physical-Dynamic-Driven AI-Synthetic Precipitation Nowcasting Using Task-Segmented Generative Model**
+* intro: Geophysical Research Letters (2023)
+* paper: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023GL106084
+
+
 :pushpin: Workshop
 ==
 
