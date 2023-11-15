@@ -136,6 +136,11 @@
 * intro: Geophysical Research Letters (2023)
 * paper: https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023GL106084
 
+## GraphCast
+**Learning skillful medium-range global weather forecasting**
+* intro: Science (2023)
+* paper: https://www.science.org/doi/10.1126/science.adi2336
+
 
 :pushpin: Workshop
 ==
