@@ -140,6 +140,7 @@
 **Learning skillful medium-range global weather forecasting**
 * intro: Science (2023)
 * paper: https://www.science.org/doi/10.1126/science.adi2336
+* github: https://github.com/google-deepmind/graphcast
 
 
 :pushpin: Workshop
