@@ -154,9 +154,13 @@
 * intro: NIPS 2022
 * link: https://www.climatechange.ai/events/neurips2022
 
-## Weather4cast competition
+## Tackling Climate Change with Machine Learning: Blending New and Existing Knowledge Systems
 * intro: NIPS 2023
-* link: https://www.climatechange.ai/events/neurips2022
+* https://neurips.cc/virtual/2023/workshop/66543
+
+## Weather4cast
+* intro: NIPS 2023 competition
+* link: https://weather4cast.net/
 
 :computer: Library
 ==
