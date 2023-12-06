@@ -147,6 +147,11 @@
 * intro: arXiv (2023)
 * paper: https://arxiv.org/abs/2311.18306
 
+## RainAI
+**RainAI - Precipitation Nowcasting from Satellite Data**
+* intro: arXiv (2023)
+* paper: https://arxiv.org/abs/2311.18398
+
 :pushpin: Workshop
 ==
 
