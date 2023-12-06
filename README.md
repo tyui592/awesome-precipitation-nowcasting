@@ -142,12 +142,20 @@
 * paper: https://www.science.org/doi/10.1126/science.adi2336
 * github: https://github.com/google-deepmind/graphcast
 
+## PAUNet
+**PAUNet: Precipitation Attention-based U-Net for rain prediction from satellite radiance data**
+* intro: arXiv (2023)
+* paper: https://arxiv.org/abs/2311.18306
 
 :pushpin: Workshop
 ==
 
 ## Tackling Climate Change with Machine Learning
 * intro: NIPS 2022
+* link: https://www.climatechange.ai/events/neurips2022
+
+## Weather4cast competition
+* intro: NIPS 2023
 * link: https://www.climatechange.ai/events/neurips2022
 
 :computer: Library
