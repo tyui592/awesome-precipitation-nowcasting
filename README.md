@@ -228,6 +228,13 @@
 * paper: https://arxiv.org/abs/2310.02676
 * github: https://github.com/yyyujintang/PostRainBench
 
+## WeatherBench 2
+**A benchmark for the next generation of data-driven global weather models**
+* intro: arXiv (2023)
+* paper: https://arxiv.org/abs/2308.15560
+* doc: https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html
+* github: https://github.com/google-research/weatherbench2
+
 :earth_asia: others
 ==
 ## EarthArXiv
