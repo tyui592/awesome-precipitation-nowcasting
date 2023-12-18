@@ -152,6 +152,11 @@
 * intro: arXiv (2023)
 * paper: https://arxiv.org/abs/2311.18398
 
+## DiffCast
+**DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting**
+* intro: arXiv (2023)
+* paper: https://arxiv.org/abs/2312.06734
+
 :pushpin: Workshop
 ==
 
