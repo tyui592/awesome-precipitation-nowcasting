@@ -245,3 +245,7 @@
 ## EarthArXiv
 * intro: EarthArXiv publishes articles from all subdomains of Earth Science and related domains of planetary science. 
 * link: https://eartharxiv.org/repository/about/
+
+## Awesome-Foundation-Models-for-Weather-and-Climate
+* intro: A Suvery about foundation models for weather and cliamte data understanding.
+* github: https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate
