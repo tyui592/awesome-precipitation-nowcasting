@@ -128,8 +128,8 @@
 
 ## PreDiff
 **PreDiff: Precipitation Nowcasting with Latent Diffusion Models**
-* intro: arXiv (2023)
-* paper: https://arxiv.org/abs/2307.10422
+* intro: NIPS(2023)
+* paper: https://openreview.net/pdf?id=Gh67ZZ6zkS
 
 ## STGM
 **Physical-Dynamic-Driven AI-Synthetic Precipitation Nowcasting Using Task-Segmented Generative Model**
