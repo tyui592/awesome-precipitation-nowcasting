@@ -157,6 +157,11 @@
 * intro: arXiv (2023)
 * paper: https://arxiv.org/abs/2312.06734
 
+## Balanced Loss and Temperature Data
+**Improving Precipitation Nowcasting for High-Intensity Events Using Deep Generative Models with Balanced Loss and Temperature Data: A Case Study in the Netherlands**
+* intro: Artificial Intelligence for the Earth Systems (2023)
+* paper: https://journals.ametsoc.org/configurable/content/journals$002faies$002f2$002f4$002fAIES-D-23-0017.1.xml?t:ac=journals%24002faies%24002f2%24002f4%24002fAIES-D-23-0017.1.xml
+
 :pushpin: Workshop
 ==
 
