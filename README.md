@@ -162,6 +162,11 @@
 * intro: Artificial Intelligence for the Earth Systems (2023)
 * paper: https://journals.ametsoc.org/configurable/content/journals$002faies$002f2$002f4$002fAIES-D-23-0017.1.xml?t:ac=journals%24002faies%24002f2%24002f4%24002fAIES-D-23-0017.1.xml
 
+## CasCast
+**CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling**
+* intro: arXiv (2024)
+* paper: https://arxiv.org/abs/2402.04290
+
 :pushpin: Workshop
 ==
 
