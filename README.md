@@ -167,6 +167,11 @@
 * intro: arXiv (2024)
 * paper: https://arxiv.org/abs/2402.04290
 
+## DB-RNN
+**DB-RNN: A RNN for Precipitation Nowcasting Deblurring**
+* intro: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2024)
+* paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10433653
+
 :pushpin: Workshop
 ==
 
