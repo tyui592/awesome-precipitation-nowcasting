@@ -2,7 +2,7 @@ awesome-precipitation-nowcasting
 ==
 
 ### Content
-* [:paperclip: Papers&Codes](https://github.com/tyui592/awesome-precipitation-nowcasting/edit/master/README.md#paperclip-paperscodes)
+* [:paperclip: Papers&Codes](https://github.com/tyui592/awesome-precipitation-nowcasting#paperclip-paperscodes)
 * [:pushpin: Workshop](https://github.com/tyui592/awesome-precipitation-nowcasting#pushpin-workshop)
 * [:computer: Library](https://github.com/tyui592/awesome-precipitation-nowcasting#computer-library)
 * [:minidisc: Dataset](https://github.com/tyui592/awesome-precipitation-nowcasting#minidisc-dataset)
