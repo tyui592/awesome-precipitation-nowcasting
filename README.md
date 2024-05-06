@@ -184,6 +184,11 @@ awesome-precipitation-nowcasting
 * intro: IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2024)
 * paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10433653
 
+## PP-Loss
+**PP-Loss: An imbalanced regression loss based on plotting position for improved precipitation nowcasting**
+* intro: Theoretical and Applied Climatology (2024)
+* paper: https://link.springer.com/article/10.1007/s00704-024-04984-w
+
 :pushpin: Workshop
 ==
 
