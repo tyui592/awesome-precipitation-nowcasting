@@ -204,6 +204,10 @@ awesome-precipitation-nowcasting
 * intro: NIPS 2023 competition
 * link: https://weather4cast.net/
 
+## Weather4cast (2024)
+* intro: NIPS 2024
+* link: https://weather4cast.net/neurips2024/
+
 :computer: Library
 ==
 
