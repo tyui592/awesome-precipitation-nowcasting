@@ -166,8 +166,8 @@ awesome-precipitation-nowcasting
 
 ## DiffCast
 **DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting**
-* intro: arXiv (2023)
-* paper: https://arxiv.org/abs/2312.06734
+* intro: arXiv (2023), CVPR (2024)
+* paper: https://arxiv.org/abs/2312.06734, https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.pdf
 
 ## Balanced Loss and Temperature Data
 **Improving Precipitation Nowcasting for High-Intensity Events Using Deep Generative Models with Balanced Loss and Temperature Data: A Case Study in the Netherlands**
