@@ -285,3 +285,7 @@ awesome-precipitation-nowcasting
 ## Awesome-Foundation-Models-for-Weather-and-Climate
 * intro: A Suvery about foundation models for weather and cliamte data understanding.
 * github: https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate
+
+## Awesome Large Weather Models
+* intro: A Collection of Awesome Large Weather Models (LWMs) | AI for Earth (AI4Earth) | AI for Science (AI4Science)
+* github: https://github.com/jaychempan/Awesome-LWMs
