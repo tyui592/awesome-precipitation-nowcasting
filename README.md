@@ -1,6 +1,8 @@
 awesome-precipitation-nowcasting
 ==
 
+A curated list of papers, code, competitions, and datasets for precipitation nowcasting.
+
 ### Content
 * [:paperclip: Papers&Codes](https://github.com/tyui592/awesome-precipitation-nowcasting#paperclip-paperscodes)
 * [:pushpin: Workshop](https://github.com/tyui592/awesome-precipitation-nowcasting#pushpin-workshop)
@@ -65,7 +67,7 @@ awesome-precipitation-nowcasting
 ## RainNet
 **RainNet v1.0: a convolutional neural network for radar-based precipitation nowcasting**
 * intro: Geoscientific Model Development (2020)
-* paper: https://gmd.copernicus.org/articles/13/2631/2020/gmd-13-2631-2020-discussion.html
+* paper: https://gmd.copernicus.org/articles/13/2631/2020/
 * github: https://github.com/hydrogo/rainnet
 
 ## MetNet
@@ -87,6 +89,13 @@ awesome-precipitation-nowcasting
 * intro: (1) arXiv (2021), (2) Nature communications (2022)
 * paper: (1) https://arxiv.org/abs/2111.07470, (2) https://www.nature.com/articles/s41467-022-32483-x
 * blog: https://ai.googleblog.com/2021/11/metnet-2-deep-learning-for-12-hour.html
+
+## MetNet-3
+**Deep Learning for Day Forecasts from Sparse Observations**
+* intro: arXiv preprint (2023)
+* method: Learns from dense and sparse observations to forecast precipitation and other weather variables up to 24 hours ahead.
+* paper: https://arxiv.org/abs/2306.06079
+* blog: https://research.google/blog/metnet-3-a-state-of-the-art-neural-weather-model-available-in-google-products/
 
 ## DeepRaNE
 **Effective Training Strategies for Deep-learning-based Precipitation Nowcasting and Estimation**
@@ -140,8 +149,9 @@ awesome-precipitation-nowcasting
 
 ## PreDiff
 **PreDiff: Precipitation Nowcasting with Latent Diffusion Models**
-* intro: NIPS(2023)
-* paper: https://openreview.net/pdf?id=Gh67ZZ6zkS
+* intro: NeurIPS (2023)
+* paper: https://proceedings.neurips.cc/paper_files/paper/2023/hash/f82ba6a6b981fbbecf5f2ee5de7db39c-Abstract.html
+* github: https://github.com/gaozhihan/PreDiff
 
 ## STGM
 **Physical-Dynamic-Driven AI-Synthetic Precipitation Nowcasting Using Task-Segmented Generative Model**
@@ -168,6 +178,7 @@ awesome-precipitation-nowcasting
 **DiffCast: A Unified Framework via Residual Diffusion for Precipitation Nowcasting**
 * intro: arXiv (2023), CVPR (2024)
 * paper: https://arxiv.org/abs/2312.06734, https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_DiffCast_A_Unified_Framework_via_Residual_Diffusion_for_Precipitation_Nowcasting_CVPR_2024_paper.pdf
+* github: https://github.com/DeminYu98/DiffCast
 
 ## Balanced Loss and Temperature Data
 **Improving Precipitation Nowcasting for High-Intensity Events Using Deep Generative Models with Balanced Loss and Temperature Data: A Case Study in the Netherlands**
@@ -176,8 +187,9 @@ awesome-precipitation-nowcasting
 
 ## CasCast
 **CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling**
-* intro: arXiv (2024)
-* paper: https://arxiv.org/abs/2402.04290
+* intro: ICML (2024)
+* paper: https://proceedings.mlr.press/v235/gong24a.html
+* github: https://github.com/Yager-42/CasCast
 
 ## DB-RNN
 **DB-RNN: A RNN for Precipitation Nowcasting Deblurring**
@@ -188,6 +200,55 @@ awesome-precipitation-nowcasting
 **PP-Loss: An imbalanced regression loss based on plotting position for improved precipitation nowcasting**
 * intro: Theoretical and Applied Climatology (2024)
 * paper: https://link.springer.com/article/10.1007/s00704-024-04984-w
+
+## FACL
+**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**
+* intro: NeurIPS (2024)
+* method: A frequency-domain training loss designed to reduce blur in radar nowcasts.
+* paper: https://proceedings.neurips.cc/paper_files/paper/2024/file/b54532b0e57eb963b19e00583376cda3-Paper-Conference.pdf
+* github: https://github.com/argenycw/FACL
+
+## Global MetNet
+**An Operational Deep Learning System for Satellite-Based High-Resolution Global Nowcasting**
+* intro: arXiv preprint (2025)
+* method: Combines geostationary satellite observations and numerical weather prediction for global precipitation forecasts up to 12 hours ahead.
+* paper: https://arxiv.org/abs/2510.13050
+
+## STLDM
+**STLDM: Spatio-Temporal Latent Diffusion Model for Precipitation Nowcasting**
+* intro: Transactions on Machine Learning Research (2025)
+* method: Latent diffusion for radar nowcasting, evaluated on SEVIR, HKO-7, and MeteoNet.
+* paper: https://openreview.net/pdf/0c96764f978424fc046d1a5c3e21b7cc1a5fb10c.pdf
+* github: https://github.com/sqfoo/stldm_official
+
+## FlowCast
+**FlowCast: Advancing Precipitation Nowcasting with Conditional Flow Matching**
+* intro: ICLR (2026)
+* method: Uses conditional flow matching to generate precipitation forecasts from radar sequences.
+* paper: https://proceedings.iclr.cc/paper_files/paper/2026/hash/fe112a9042ed19ec515ed700d394a8bb-Abstract-Conference.html
+* github: https://github.com/b-rbmp/FlowCast
+
+## FREUD
+**Probabilistic Precipitation Nowcasting with Rectified Flow Transformers**
+* intro: CVPR (2026)
+* method: A latent rectified-flow transformer for probabilistic nowcasting, evaluated on DWD radar data and SEVIR.
+* paper: https://openaccess.thecvf.com/content/CVPR2026/papers/Schusterbauer_Probabilistic_Precipitation_Nowcasting_with_Rectified_Flow_Transformers_CVPR_2026_paper.pdf
+* github: https://github.com/CompVis/weather-rf
+* weights: https://huggingface.co/CompVis/weather-rf
+
+## StormScope
+**Skillful Thunderstorm Forecasts Learned Directly from Observations**
+* intro: arXiv preprint and model release (2026)
+* method: Generative forecasts of satellite, radar, and lightning observations over the contiguous United States.
+* paper: https://arxiv.org/abs/2601.17268
+* inference example: https://nvidia.github.io/earth2studio/1.0.0/examples/04_nowcasting/03_stormscope_goes_example/
+* weights: https://huggingface.co/nvidia/stormscope-goes-mrms
+
+## FlowsNet
+**An NWP-Free, Observation-Driven Deep Learning Approach to Heavy-Rainfall Nowcasting beyond the Three-Hour Limit**
+* intro: Artificial Intelligence for the Earth Systems (2026)
+* method: Combines radar–gauge precipitation, surface observations, and satellite data to forecast heavy rainfall.
+* paper: https://doi.org/10.1175/AIES-D-25-0117.1
 
 :pushpin: Workshop
 ==
@@ -207,6 +268,12 @@ awesome-precipitation-nowcasting
 ## Weather4cast (2024)
 * intro: NIPS 2024
 * link: https://weather4cast.net/neurips2024/
+
+## Weather4cast (2025)
+* intro: NeurIPS 2025 competition
+* tasks: Probabilistic cumulative rainfall forecasting and unusual event prediction.
+* link: https://weather4cast.net/neurips2025/challenge/
+* paper: https://proceedings.mlr.press/v276/gruca26b.html
 
 :computer: Library
 ==
@@ -241,8 +308,30 @@ awesome-precipitation-nowcasting
 * doc: https://openstl.readthedocs.io/en/latest/
 * github: https://github.com/chengtan9907/OpenSTL
 
+## Earth2Studio
+**NVIDIA's Python toolkit for running AI weather models, including StormScope nowcasting.**
+* doc: https://nvidia.github.io/earth2studio/main/
+* github: https://github.com/NVIDIA/earth2studio
+
 :minidisc: Dataset
 ==
+
+## HKO-7
+**Hong Kong Observatory radar echo benchmark introduced with TrajGRU.**
+* intro: NeurIPS (2017)
+* paper: https://arxiv.org/abs/1706.03458
+* dataset and code: https://github.com/sxjscience/HKO-7
+
+## SEVIR
+**A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology**
+* intro: NeurIPS (2020)
+* data: Storm-centered sequences of radar-derived vertically integrated liquid (VIL), satellite imagery, and lightning observations over the contiguous United States.
+* paper: https://papers.neurips.cc/paper/2020/file/fa78a16157fed00d7a80515818432169-Paper.pdf
+* dataset and code: https://github.com/MIT-AI-Accelerator/neurips-2020-sevir
+
+## MeteoNet
+**Météo-France dataset with radar, satellite, weather station, and numerical weather prediction data for two regions of France.**
+* dataset: https://meteonet.umr-cnrm.fr/
 
 ## EarthNet2021
 **EarthNet2021: A large-scale dataset and challenge for Earth surface forecasting as a guided video prediction task.**
@@ -275,6 +364,21 @@ awesome-precipitation-nowcasting
 * paper: https://arxiv.org/abs/2308.15560
 * doc: https://blog.research.google/2023/08/weatherbench-2-benchmark-for-next.html
 * github: https://github.com/google-research/weatherbench2
+
+## RainfallBench
+**How Effective Are Time-Series Models for Precipitation Nowcasting? A Comprehensive Benchmark for GNSS-Based Precipitation Nowcasting**
+* intro: IEEE Transactions on Geoscience and Remote Sensing (2026)
+* data: Hourly station time series, including precipitable water vapor, for precipitation forecasts up to six hours ahead.
+* paper: https://ieeexplore.ieee.org/document/11424616/
+* dataset and code: https://github.com/yfangZhang/RainfallBench
+
+## RRBF-KMA
+**RRBF-KMA: high-resolution radar–gauge merged precipitation dataset for South Korea (2016–2024)**
+* intro: Earth System Science Data (2026)
+* data: Nationwide precipitation fields on a 0.5 km grid at 10-minute intervals.
+* paper: https://essd.copernicus.org/articles/18/7679/2026/
+* dataset (2016–2020): https://doi.org/10.5281/zenodo.19491708
+* dataset (2021–2024): https://doi.org/10.5281/zenodo.19562910
 
 :earth_asia: Others
 ==
